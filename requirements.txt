@@ -1,0 +1,6 @@
+# ElevenLabs Python SDK
+elevenlabs>=1.0.0
+
+# Optional dependencies for enhanced functionality
+requests>=2.28.0
+python-dotenv>=1.0.0
